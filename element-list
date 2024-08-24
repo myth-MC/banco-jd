@@ -4,10 +4,10 @@ ovh.mythmc.banco.api.bukkit.inventories
 ovh.mythmc.banco.api.bukkit.util
 ovh.mythmc.banco.api.configuration
 ovh.mythmc.banco.api.configuration.sections
-ovh.mythmc.banco.api.containers
 ovh.mythmc.banco.api.data
 ovh.mythmc.banco.api.economy
 ovh.mythmc.banco.api.event
 ovh.mythmc.banco.api.event.impl
 ovh.mythmc.banco.api.items
 ovh.mythmc.banco.api.logger
+ovh.mythmc.banco.api.storage
